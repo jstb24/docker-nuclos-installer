@@ -1,5 +1,5 @@
 # docker-nuclos-installer
-Automatische dockerbasierte nuclos Installation
+Automatische dockerbasierte nuclos Installation. Vielleicht kann es jemand gebrauchen.
 
 # !!! A C H T U N G !!! für einen produktiven Betrieb ausschließlich hinter einem Reverseproxyserver wie z.B. nginx
 
