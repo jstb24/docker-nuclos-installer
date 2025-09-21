@@ -7,7 +7,8 @@ Zur Installation im Installationsverzeichnis z.B. /opt/<mein nuclos installation
 ist nur dieses Script und das Installationspackage von Nuclos  erforderlich. Download auf der Herstellerseite.
 https://www.nuclos.de/downloads/
 
-Das Restorescript benötigt für eine vollständige Wiederherstellung weitere Anpassungen.
+- Das Restorescript benötigt für eine vollständige Wiederherstellung weitere Anpassungen.
+- Es werden 2 Container erzeugt und ein Docker Netzwerk (PostgreSQL und Nuclos basiert auf temurin Java Image)
 
 
 <img width="869" height="131" alt="image" src="https://github.com/user-attachments/assets/23a36369-8838-4b21-a55f-e9df59709a01" />
