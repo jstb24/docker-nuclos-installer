@@ -1,6 +1,15 @@
 # docker-nuclos-installer
 Automatische dockerbasierte nuclos Installation
 
+# !!! A C H T U N G !!! für einen produktiven Betrieb ausschließlich hinter einem Reverseproxyserver wie z.B. nginx
+
+Zur Installation im Installationsverzeichnis z.B. /opt/<mein nuclos installationsverzeichnis>
+ist nur dieses Script und das Installationspackage von Nuclos  erforderlich. Download auf der Herstellerseite.
+https://www.nuclos.de/downloads/
+
+Das Restorescript benötigt für eine vollständige Wiederherstellung weitere Anpassungen.
+
+
 <img width="869" height="131" alt="image" src="https://github.com/user-attachments/assets/23a36369-8838-4b21-a55f-e9df59709a01" />
 
 Erzeugung der Dockercontainer entsprechend den eingegebenen Parameter
@@ -13,3 +22,5 @@ Im Installationsordner werden automatisch folgende Scripts und Konfigurationsdat
 
 
 
+Dieses Script wird ohne jegliche Gewährleistung zur Verfügung gestellt unter MIT.
+Kein Backup? Kein Mitleid!
