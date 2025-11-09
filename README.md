@@ -16,7 +16,7 @@ Folgende Scripts werden vom installscript passend erstellt:
 + Instanz-Restorescript
 + Upgradescript 
 
-
+Für ein Upgrade darf nur die jeweils zu installierende Version (Download jar Installer von nuclos) im Installationsverzeichnis liegen
 
 <img width="869" height="131" alt="image" src="https://github.com/user-attachments/assets/23a36369-8838-4b21-a55f-e9df59709a01" />
 
