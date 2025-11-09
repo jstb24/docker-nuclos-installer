@@ -10,6 +10,7 @@ https://www.nuclos.de/downloads/
 
 - Es werden 2 Container erzeugt und ein Docker Netzwerk (PostgreSQL und Nuclos basiert auf temurin Java Image)
 
+Folgende Scripts werden vom installscript passend erstellt:
 + Datenbank Backupscript
 + Instanzbackupscript
 + Instanz-Restorescript
